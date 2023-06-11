@@ -25,9 +25,9 @@ To build the matchmaking model, we collected primary data through a Google Form 
 
 ### Reference
 
-Akdağ, Melih. (2020). Five Personality Clusters (K-Means). Accessed on May 16th 2023 via [Five Personality Clusters (K-Means)](https://www.kaggle.com/code/akdagmelih/five-personality-clusters-k-means).
-Sivri, S. Zeynep. (2022). Five Personality Clustering. Accessed on May 16th 2023 via [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering).
-M, Siddharth. (2021). Performing Multi-class Classification on FIFA Dataset Using Keras. Accessed on May 24th 2023 via M, Siddharth. (2021). [Performing Multi-class Classification on FIFA Dataset Using Keras](https://www.analyticsvidhya.com/blog/2021/07/performing-multi-class-classification-on-fifa-dataset-using-keras/).
-Chng, Gerry. (2020). Using the Right Dimensions for Your Neural Network. Accessed on May 24th 2023 via [Using the Right Dimensions for Your Neural Network](https://towardsdatascience.com/using-the-right-dimensions-for-your-neural-network-2d864824d0df).
-Ahmed, Shariq. (2020). Machine Learning Matchmaking. Accessed on June 4th 2023 via [Machine Learning Matchmaking](https://towardsdatascience.com/machine-learning-matchmaking-4416579d4d5e).
-Sharma, Pulkit. (2020). Understanding Distance Metrics Used in Machine Learning. Accessed on June 4th 2023 via [Understanding Distance Metrics Used in Machine Learning](https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/).
+- Akdağ, Melih. (2020). Five Personality Clusters (K-Means). Accessed on May 16th 2023 via [Five Personality Clusters (K-Means)](https://www.kaggle.com/code/akdagmelih/five-personality-clusters-k-means).
+- Sivri, S. Zeynep. (2022). Five Personality Clustering. Accessed on May 16th 2023 via [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering).
+- M, Siddharth. (2021). Performing Multi-class Classification on FIFA Dataset Using Keras. Accessed on May 24th 2023 via M, Siddharth. (2021). [Performing Multi-class Classification on FIFA Dataset Using Keras](https://www.analyticsvidhya.com/blog/2021/07/performing-multi-class-classification-on-fifa-dataset-using-keras/).
+- Chng, Gerry. (2020). Using the Right Dimensions for Your Neural Network. Accessed on May 24th 2023 via [Using the Right Dimensions for Your Neural Network](https://towardsdatascience.com/using-the-right-dimensions-for-your-neural-network-2d864824d0df).
+- Ahmed, Shariq. (2020). Machine Learning Matchmaking. Accessed on June 4th 2023 via [Machine Learning Matchmaking](https://towardsdatascience.com/machine-learning-matchmaking-4416579d4d5e).
+- Sharma, Pulkit. (2020). Understanding Distance Metrics Used in Machine Learning. Accessed on June 4th 2023 via [Understanding Distance Metrics Used in Machine Learning](https://www.analyticsvidhya.com/blog/2020/02/4-types-of-distance-metrics-in-machine-learning/).
