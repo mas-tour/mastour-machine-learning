@@ -15,8 +15,16 @@ By incorporating travel preferences and personality matching, MasTour provides p
 
 Through this approach, MasTour aims to create memorable and fulfilling travel experiences by facilitating strong connections between tourists and tour guides, resulting in a more enjoyable and satisfying exploration of destinations.
 
+![image](https://github.com/mas-tour/mastour-machine-learning/assets/72251788/21103e8e-15c3-4f0f-9bda-d4dc0bf2951f)
+
 ### Personality Classification
+To build this model, we used Kaggle's Big Five personality test dataset. We use this dataset to create cluster labels and use them as semi ground truth labels. So we have a dataset with personality cluster labels that will be used in Personality Classification. The model for personality classification is created using TensorFlow DNN. So in the application implementation, the user fills the survey and will get his/her personality cluster label. These personality labels will be used in Matchmaking Feature.
+
 ### Matchmaking Feature
+For the matchmaking feature, we used user data such as age, gender, tour preferences, and personality labels as inputs for matchmaking. First, we built a PCA model using TensorFlow to transform the input data from users into two principal components. After that, we used the euclidean distance between the user and each guide to get the closest distance.
+
+When this matching feature is implemented in the app, we will get all the lists of guides filtered based on the user's destination. After that we will transform all the inputs from the guides and users using PCA and then start calculating the distance using euclidean. After that we will take the 5 highest match scores
+
 ### Dataset
 
 To build the personality prediction model we use a big five personality test dataset from Kaggle. This dataset contains 1,015,342 questionnaire answers collected online by Open Psychometrics and can be accessed [here](https://www.kaggle.com/datasets/tunguz/big-five-personality-test).
